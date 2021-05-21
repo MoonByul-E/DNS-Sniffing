@@ -1,1 +1,1 @@
-# DNS-Sniffing
+# DNS-Spoofing
